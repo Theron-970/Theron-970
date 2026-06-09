@@ -4,33 +4,26 @@
 
 <br/>
 
-<div align="center">
-
-# Welcome to Sariel's GitHub
-### `</>`
-
-</div>
-
 ---
 
-## 🤖 About Me
+## About Me
 
 Hey! I'm **Sariel**, an Economics Honours graduate from the **University of Delhi**.
 
-- 📊 Currently building my **Quantitative Finance** knowledge
-- 📐 Preparing for **Masters in Statistics**
-- 🧠 Practicing alphas on **WorldQuant BRAIN**
-- 🐍 Learning and building with **Python**
+- Currently building my **Quantitative Finance** knowledge
+- Preparing for **Masters in Statistics**
+- Practicing alphas on **WorldQuant BRAIN**
+- Learning and building with **Python**
 
 ---
 
-## 🔧 Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
@@ -44,6 +37,6 @@ Hey! I'm **Sariel**, an Economics Honours graduate from the **University of Delh
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ubermensch10824@gmail.com)
