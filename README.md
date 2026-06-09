@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sariel-970/Sariel-970/blob/24995aaf1bca1da8f669e96ca34bccce5560f3c3/banner.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/Sariel-970/Sariel-970/blob/5e35ba35d5e9ed7ed5daa95f64c7f318c7d306ca/Banner.jpg" alt="Banner" width="100%"/>
 </div>
 
 <br/>
