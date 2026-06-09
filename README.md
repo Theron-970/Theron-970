@@ -19,15 +19,15 @@ Hey! I'm **Sariel**, an Economics Honours graduate from the **University of Delh
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
+
 
 ---
+
 
 ## Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sariel-970&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333)
 
 ![Streak](https://streak-stats.demolab.com?user=Sariel-970&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333)
 
