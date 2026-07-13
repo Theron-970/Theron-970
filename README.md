@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Theron-970/Theron-970/blob/27c9112fed2ddb06f8800c68a089634c429523e6/BANNER.jpg" alt="Banner" width="100%"/>
+  <img src="https://github.com/Theron-970/Theron-970/blob/30268f0819df97cbd2a891a7ed56430f5f17f986/BANNER.jpg" alt="Banner" width="100%"/>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hey! I'm **Theron**, an Economics Honours graduate from the **University of Delhi**.
+Hey! I'm **Sariel**, an Economics Honours graduate from the **University of Delhi**.
 
 - Currently building my **Quantitative Finance** knowledge
 - Preparing for **Masters in Statistics**
@@ -21,17 +21,15 @@ Hey! I'm **Theron**, an Economics Honours graduate from the **University of Delh
 
 ![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
 
-
 ---
-
 
 ## Statistics
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Sariel-970&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333)
+![Streak](https://streak-stats.demolab.com?user=Theron-970&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sariel-970&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Theron-970&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
@@ -39,4 +37,4 @@ Hey! I'm **Theron**, an Economics Honours graduate from the **University of Delh
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ubermensch10824@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:ubermensch10824@gmail.com)
