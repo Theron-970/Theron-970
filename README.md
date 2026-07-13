@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hey! I'm **Sariel**, an Economics Honours graduate from the **University of Delhi**.
+Hey! I'm **Theron**, an Economics Honours graduate from the **University of Delhi**.
 
 - Currently building my **Quantitative Finance** knowledge
 - Preparing for **Masters in Statistics**
