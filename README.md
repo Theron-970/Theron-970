@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Theron-970/Theron-970/blob/30268f0819df97cbd2a891a7ed56430f5f17f986/BANNER.jpg" alt="Banner" width="100%"/>
+  <img src="https://github.com/Theron-970/Theron-970/blob/cc5b0f3d29fc2539dfb108581a2a402cc729ef64/BANNER.jpg" alt="Banner" width="100%"/>
 </div>
 
 <br/>
